@@ -25,9 +25,9 @@ nav{
 }
 
 div{
-    background-image:url('/img/fondo3.jpg');
+    background-image:url('img/fondo3.jpg');
     width: 728px;
-    margin: 20px 260px;
+    margin: 20px 280px;
     padding: 20px;
     border: 10px solid #000;
 }
