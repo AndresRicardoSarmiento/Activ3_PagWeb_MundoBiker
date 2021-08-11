@@ -1,0 +1,36 @@
+header{
+    background-color:black;
+    border:double;
+    
+}
+#TituloP{
+    text-align: center;
+    color: white;
+    font-family: "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+}
+
+.Subti{
+    text-align: center;
+    color: darkblue;
+}
+.SubtiF{
+    text-align: center;
+    color: white;
+
+}
+
+nav{    
+    border: double;
+    background-color:lightblue;
+}
+
+div{
+    background-image:url('/img/fondo3.jpg');
+    width: 728px;
+    margin: 20px 260px;
+    padding: 20px;
+    border: 10px solid #000;
+}
+.caja{
+    color: white;
+}
